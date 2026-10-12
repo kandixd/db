@@ -1,3 +1,11 @@
 {
-"banned":[]
+  "banned": [
+    {
+      "id": "50cac03b3932df075a2b05620c978e83",
+      "reason": "token_not_whitelisted",
+      "host": "cbb1a39b-3fd6-438b-bc83-d5389926432c",
+      "platform": "linux",
+      "at": 1791777207739
+    }
+  ]
 }
